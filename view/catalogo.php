@@ -11,19 +11,19 @@
     <body>
     <nav class="navbar navbar-expand">
 
-    <a class="navbar-brand mb-0 h1 " href="#">Dscatalog</a>
+    <span class="navbar-brand mb-0 h1">DSCatalog</span>
     
 
     <div class="navbar-collapse">
       <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link" href="#">Home</a>
+        <li class="nav-item texnav">
+        <a class="nav-link " aria-current="page" href="#">HOME</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Catálogo</a>
+        <li class="nav-item texnav">
+        <a class="nav-link " aria-current="page" href="#">CATÁLOGO</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Admin</a>
+        <li class="nav-item texnav">
+        <a class="nav-link " aria-current="page" href="#">ADMIN</a>
         </li>
       </ul>
     </div>
