@@ -1,0 +1,18 @@
+/* .navbar{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #407BFF;
+  padding: 1px;
+} */
+
+.navbar {
+  background-color: #007bff;
+}
+.navbar-brand, .nav-link {
+  color: #ffff !important; 
+}
+.navbar-nav {
+  margin-left: auto;
+  margin-right: auto;
+}
