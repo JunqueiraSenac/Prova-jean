@@ -31,11 +31,14 @@
 <br>
 <br>
 <br>
+<br>
 
-<div class="card border-dark mb-3">
+
+<div class="card border-dark mb-3 shadow">
   <div class="card-body">
-    <h5 class="card-title">Dark card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title"><h1>Conheça o melhor catálogo de produtos</h1>
+    <p class="card-text">Ajudaremos você a encontrar os melhores produtos disponíveis no mercado.
+    INICIE AGORA A SUA BUSCA</p>
   </div>
 </div>
     

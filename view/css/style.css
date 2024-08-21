@@ -1,6 +1,9 @@
 div{
-    max-width: 20rem;
-    width: 300px;
-    left: 600px;
+    width: 1100px;
+    left: 400px;
     padding: 300px;
+
 }
+.card {
+    border-radius: 2%;
+  }
