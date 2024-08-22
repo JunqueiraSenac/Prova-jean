@@ -10,20 +10,24 @@
 
 </head>
 
-<nav class="navbar bg-primary nav justify-content-center" data-bs-theme="dark">
-<ul class="nav justify-content-center">
-<span class="navbar-brand mb-0 h1">DS Catálog</span>
-  <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="#">HOME</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">CATÁLOGO</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">ADIMIN</a>
-  </li>
+<nav class="navbar navbar-expand">
 
-</ul>
+<span class="navbar-brand mb-0 h1">DSCatalog</span>
+
+
+<div class="navbar-collapse">
+  <ul class="navbar-nav">
+    <li class="nav-item texnav">
+    <a class="nav-link " aria-current="page" href="#">HOME</a>
+    </li>
+    <li class="nav-item texnav">
+    <a class="nav-link " aria-current="page" href="#">CATÁLOGO</a>
+    </li>
+    <li class="nav-item texnav">
+    <a class="nav-link " aria-current="page" href="#">ADMIN</a>
+    </li>
+  </ul>
+</div>
 </nav>
 
 <body>
@@ -34,8 +38,9 @@
 <br>
 
 
-<div class="card border-dark mb-3 shadow">
+<div class="card border mb-3 shadow">
   <div class="card-body">
+    <img src="img/image.png" alt="" >
     <h5 class="card-title"><h1>Conheça o melhor catálogo de produtos</h1>
     <p class="card-text">Ajudaremos você a encontrar os melhores produtos disponíveis no mercado.
     INICIE AGORA A SUA BUSCA</p>

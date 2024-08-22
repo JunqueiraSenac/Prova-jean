@@ -1,4 +1,18 @@
-div{
+.navbar {
+    background-color: #007bff;
+  }
+  .navbar-brand, .nav-link {
+    color: #ffff !important; 
+  }
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .texnav{
+     padding: 0 10px;
+  }
+
+.div{
     width: 1100px;
     left: 400px;
     padding: 300px;
@@ -7,3 +21,12 @@ div{
 .card {
     border-radius: 2%;
   }
+
+img {
+    width: 800px; 
+    left: 400px;
+}
+
+
+
+  
