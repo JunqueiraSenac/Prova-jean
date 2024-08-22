@@ -12,3 +12,109 @@
 .texnav{
    padding: 0 10px;
 }
+.produto{
+
+width: 158px;
+height: 158px;
+margin: auto;
+
+}
+.cardpro{
+
+  width: 245px !important;
+  height: 335px;
+}
+.catalogo{
+  margin: auto;
+  display: flex;
+  justify-content: baseline;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  background-color: #f5f5f5;
+
+}
+.azul{
+  color: #007bff;
+  font-size: 32px;
+}
+.sifrao{
+  color: #333;
+  font-size: 24px;
+}
+.preco{
+  display: flex;
+  align-items: start;
+  
+}
+.divsona{
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s;
+  cursor: pointer;
+  position: relative;
+}
+.h1{
+  font-size: 24px;
+}
+.pesquisa{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+
+  
+
+}
+.input-group{
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+.pesquisar{
+  width: 350px;
+  border-bottom: rgba(0, 0, 0, 0.1) solid !important;
+  border:none;
+  margin-right: 10%;
+}
+.selecao{
+  width: 200px;
+  border:none;
+  
+}
+.botao{
+  background-color: #e0e0e0;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.dot {
+  height: 35px;
+  width: 35px;
+  margin: 0 5px;
+  background-color: rgba(172, 172, 172, 0.5); 
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  color: #000; 
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dot:hover {
+  background-color: blue; /* Cor ao passar o mouse */
+  color: white; /* Cor do texto ao passar o mouse */
+}

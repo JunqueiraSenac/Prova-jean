@@ -28,9 +28,223 @@
       </ul>
     </div>
   </nav>
+  <div class="pesquisa">
+    <h1 class="h1"><b>Catálogo de produtos</b></h1>
+    <div class="input-group">
+    <input type="text" class="pesquisar" placeholder="Pesquisar produto" aria-label="Search">
+    <select  class="selecao"name="" id="">
+      <option value="">Filtrar por categoria</option>
+      <option value=""></option>
+    </select>
+    <button class="botao">Limpar filtros</button>
+    </div>
+  </div>
+
+<div class="catalogo row">
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="card cardpro" style="width: 18rem;">
+  <img src="img/produto.png" class="card-img-top produto" alt="...">
+  <div class="card-body cardpro">
+    <p class="card-text"><b>Computador Desktop - Intel Core i7</b></p>
+    <div class="preco">
+    <span class="card-text sifrao">R$</span>
+    <span class="card-text azul">2.779,00</span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div class="pagination">
+  <span class="dot">1</span>
+  <span class="dot">2</span>
+  <span class="dot">3</span>
+  <span class="dot">4</span>
+  <span class="dot">5</span>
+  <span class="dot">6</span>
+  <span class="dot">7</span>
+  <span class="dot">8</span>
+  <span class="dot">9</span>
+  <span class="dot">10</span>
+  <span class="dot">...</span>
+  <span class="dot">35</span>
+
+</div>
 
 
 
 
-    </body>
-    </html>
+</div>
+
+
+</body>
+</html>
