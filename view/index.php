@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="./css/style.css">
 
 </head>
-
+<body>
 <nav class="navbar navbar-expand">
 
 <span class="navbar-brand mb-0 h1">DSCatalog</span>
@@ -30,7 +30,7 @@
 </div>
 </nav>
 
-<body>
+
 
 <br>
 <br>
@@ -40,12 +40,11 @@
 
 <div class="card border mb-3 shadow">
   <div class="card-body">
-    <img src="img/image.png" alt="" >
-    <h5 class="card-title"><h1>Conheça o melhor catálogo de produtos</h1>
-    <p class="card-text">Ajudaremos você a encontrar os melhores produtos disponíveis no mercado.
-    INICIE AGORA A SUA BUSCA</p>
+    <img src="img/ye.png" alt="" class="image" >
+    <button type="button" class="btn btn-primary btn-lg">INICIE AGORA A SUA BUSCA</button>
+    <h5 class="card-title">
   </div>
 </div>
     
 </body>
-</html>
+</html>x
